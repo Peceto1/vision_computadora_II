@@ -1,0 +1,3 @@
+[submodule "TP_final"]
+	path = TP_final
+	url = git@github.com:MLsound/CV2-PlantVillage.git
